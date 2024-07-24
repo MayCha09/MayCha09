@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </div>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayCha09&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayCha09&layout=center)
 
 
     
