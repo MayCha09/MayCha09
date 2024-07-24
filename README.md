@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Arsenal+SC&size=35&color=95BDFFF&width=500&height=70&duration=4000&lines=Hi,+I'm+Chalinee+Saelee;Nice+To+Meet+You+🥰&center=true"></a></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayCha09&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+# GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayCha09&layout=compact)
 
     
     
