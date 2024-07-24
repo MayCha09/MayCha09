@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=95BDFFF&width=380&height=28&lines=Hi,+I'm+Chalinee+Saelee+(MAY)..;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=preconnect&size=35&color=95BDFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Chalinee+Saelee+(MAY)..;Nice+To+Meet+You+....&center=true"></a></p>
     
 
     
