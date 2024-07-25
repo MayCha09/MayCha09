@@ -7,16 +7,17 @@
   <a href="mailto:chalinee.saelee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=MayCha09&label=Profile%20views&color=0e75b6&style=flat" alt="MayCha09" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=MayCha09&label=Profile%20views&color=0e75b6&style=flat" alt="MayCha09" /> </p>
 </div>
 </h1>
+    
 
-
-
-<h3 align="left">⭐Languages and Tools:</h3>
-
+### :star: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,dart,flutter,nodejs,docker)](https://skillicons.dev)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayCha09&show_icons=true&locale=en&layout=compact" alt="MayCha09" /></p>
 
+---
+
+### :fire: My Stats :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayCha09&show_icons=true&locale=en&layout=compact" alt="MayCha09" /></p>
 
     
