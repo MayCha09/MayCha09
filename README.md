@@ -18,6 +18,6 @@
 ---
 
 ### :fire: My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayCha09&show_icons=true&locale=en&layout=compact" alt="MayCha09" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayCha09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
     
