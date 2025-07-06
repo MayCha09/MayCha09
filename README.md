@@ -13,7 +13,7 @@
     
 
 ### :star: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,dart,flutter,nodejs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,dart,flutter,nodejs)](https://skillicons.dev)
 
 ---
 
